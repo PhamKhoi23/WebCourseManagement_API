@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\PhamKhoi23\\C#.Net\\CourseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD0EDF75-C7FA-454F-9A44-B2ACCF2F3A2F}|CourseManagement2_Repositories\\CourseManagement2_Repositories.csproj|g:\\phamkhoi23\\c#.net\\coursemanagement\\coursemanagement2_repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD0EDF75-C7FA-454F-9A44-B2ACCF2F3A2F}|CourseManagement2_Repositories\\CourseManagement2_Repositories.csproj|solutionrelative:coursemanagement2_repositories\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5A455C9-A6C3-4D4D-87F9-D3BDBB6F30D8}|CourseManagement2_Models\\CourseManagement2_Models.csproj|g:\\phamkhoi23\\c#.net\\coursemanagement\\coursemanagement2_models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5A455C9-A6C3-4D4D-87F9-D3BDBB6F30D8}|CourseManagement2_Models\\CourseManagement2_Models.csproj|solutionrelative:coursemanagement2_models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE79934-82F5-4DD1-BE21-A111F8A48449}|CourseManagement2_Commons\\CourseManagement2_Commons.csproj|g:\\phamkhoi23\\c#.net\\coursemanagement\\coursemanagement2_commons\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE79934-82F5-4DD1-BE21-A111F8A48449}|CourseManagement2_Commons\\CourseManagement2_Commons.csproj|solutionrelative:coursemanagement2_commons\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8503BFDC-1D16-4753-9172-A302A6A3BC64}|CourseManagement_Business\\CourseManagement_Business.csproj|g:\\phamkhoi23\\c#.net\\coursemanagement\\coursemanagement_business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8503BFDC-1D16-4753-9172-A302A6A3BC64}|CourseManagement_Business\\CourseManagement_Business.csproj|solutionrelative:coursemanagement_business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "G:\\PhamKhoi23\\C#.Net\\CourseManagement\\CourseManagement2_Repositories\\Class1.cs",
+              "RelativeDocumentMoniker": "CourseManagement2_Repositories\\Class1.cs",
+              "ToolTip": "G:\\PhamKhoi23\\C#.Net\\CourseManagement\\CourseManagement2_Repositories\\Class1.cs",
+              "RelativeToolTip": "CourseManagement2_Repositories\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:49:56.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "G:\\PhamKhoi23\\C#.Net\\CourseManagement\\CourseManagement2_Models\\Class1.cs",
+              "RelativeDocumentMoniker": "CourseManagement2_Models\\Class1.cs",
+              "ToolTip": "G:\\PhamKhoi23\\C#.Net\\CourseManagement\\CourseManagement2_Models\\Class1.cs",
+              "RelativeToolTip": "CourseManagement2_Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:49:33.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "G:\\PhamKhoi23\\C#.Net\\CourseManagement\\CourseManagement2_Commons\\Class1.cs",
+              "RelativeDocumentMoniker": "CourseManagement2_Commons\\Class1.cs",
+              "ToolTip": "G:\\PhamKhoi23\\C#.Net\\CourseManagement\\CourseManagement2_Commons\\Class1.cs",
+              "RelativeToolTip": "CourseManagement2_Commons\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:49:03.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "G:\\PhamKhoi23\\C#.Net\\CourseManagement\\CourseManagement_Business\\Class1.cs",
+              "RelativeDocumentMoniker": "CourseManagement_Business\\Class1.cs",
+              "ToolTip": "G:\\PhamKhoi23\\C#.Net\\CourseManagement\\CourseManagement_Business\\Class1.cs",
+              "RelativeToolTip": "CourseManagement_Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:48:41.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

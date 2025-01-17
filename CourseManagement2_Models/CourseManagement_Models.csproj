@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CourseManagement2_Commons\CourseManagement_Commons.csproj" />
+    <ProjectReference Include="..\CourseManagement_Ultils\CourseManagement_Ultils.csproj" />
+  </ItemGroup>
+
+</Project>

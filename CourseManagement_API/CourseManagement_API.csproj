@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CourseManagement2_Models\CourseManagement_Models.csproj" />
+    <ProjectReference Include="..\CourseManagement2_Repositories\CourseManagement_Repositories.csproj" />
+    <ProjectReference Include="..\CourseManagement_Business\CourseManagement_Business.csproj" />
+  </ItemGroup>
+
+</Project>
